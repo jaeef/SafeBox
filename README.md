@@ -116,6 +116,15 @@ Press `F5`. The app tests the database connection on startup and opens the Login
 
 ---
 
+## Team
+
+| Contributor | GitHub |
+|---|---|
+| Abu Saleh Mohammad Jaeef | [@jaeef](https://github.com/jaeef) |
+| Md. Alamin | [@alamin0226](https://github.com/alamin0226) |
+
+---
+
 ## Contributing
 
 1. Fork the repo
