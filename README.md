@@ -74,7 +74,7 @@ Built with **N-Tier (Layered) Architecture**:
 ### 1. Clone
 
 ```bash
-git clone https://github.com/<your-username>/SafeBox.git
+git clone https://github.com/jaeef/SafeBox.git
 ```
 
 ### 2. Database Setup
@@ -118,10 +118,12 @@ Press `F5`. The app tests the database connection on startup and opens the Login
 
 ## Team
 
-| Contributor | GitHub |
-|---|---|
-| Abu Saleh Mohammad Jaeef | [@jaeef](https://github.com/jaeef) |
-| Md. Alamin | [@alamin0226](https://github.com/alamin0226) |
+| Avatar | Contributor | GitHub |
+|---|---|---|
+| ![jaeef](https://github.com/jaeef.png?size=50) | Abu Saleh Mohammad Jaeef | [@jaeef](https://github.com/jaeef) |
+| ![ruh-n](https://github.com/ruh-n.png?size=50) | MD. NAFIZ IQBAL ROHAN | [@ruh-n](https://github.com/ruh-n) |
+| ![alamin0226](https://github.com/alamin0226.png?size=50) | Md. Alamin | [@alamin0226](https://github.com/alamin0226) |
+
 
 ---
 
