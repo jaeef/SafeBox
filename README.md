@@ -121,7 +121,7 @@ Press `F5`. The app tests the database connection on startup and opens the Login
 | Avatar | Contributor | GitHub |
 |---|---|---|
 | ![jaeef](https://github.com/jaeef.png?size=50) | Abu Saleh Mohammad Jaeef | [@jaeef](https://github.com/jaeef) |
-| ![ruh-n](https://github.com/ruh-n.png?size=50) | MD. NAFIZ IQBAL ROHAN | [@ruh-n](https://github.com/ruh-n) |
+| ![ruh-n](https://github.com/ruh-n.png?size=50) | MD. NAFIZ IQBAL ROHAN | [@i-ruh-n]([https://github.com/ruh-n](https://github.com/i-ruh-n)) |
 | ![alamin0226](https://github.com/alamin0226.png?size=50) | Md. Alamin | [@alamin0226](https://github.com/alamin0226) |
 
 
